@@ -1,0 +1,57 @@
+
+body{
+   
+      margin-top: 20px;  
+    text-align:center;
+    background-image: url(https://cdn.pixabay.com/photo/2012/03/02/00/28/abstract-20650_960_720.jpg);
+    background-size: auto;
+        
+    
+    
+}
+
+header{
+    margin-top: 50px;
+    height: 500px;
+}
+
+li{ 
+      
+    display: inline;
+    padding: 50px;
+    text-align: left;
+    background-color: coral
+}
+
+a{
+    font-size: 20px;
+    color: black;
+    text-decoration: none;
+    
+    
+}
+
+a:hover{
+    color: aquamarine;
+}
+
+p{
+    font-size: 50
+}
+
+img{
+    
+    border: 5px black solid; 
+    border-radius: 40px;
+    
+}
+
+ul{
+    margin-top: 80px;
+    padding-left: 480px;
+    text-align: left;
+    
+}
+
+
+
